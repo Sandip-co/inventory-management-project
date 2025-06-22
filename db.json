@@ -2,20 +2,10 @@
   "items": [
     {
       "id": "c0d7",
-      "name": "scs",
-      "type": "csc",
-      "description": "scs",
+      "name": "Man T-Shirt",
+      "type": "Casual Waer",
+      "description": "Casual, comfortable, short-sleeved shirt.",
       "coverImage": "/image.png",
-      "additionalImages": [
-        ""
-      ]
-    },
-    {
-      "id": "08e9",
-      "name": "t",
-      "type": "t",
-      "description": "scs",
-      "coverImage": "https://th.bing.com/th/id/OPAC.aShjSgm1G7j1cQ474C474?w=160&h=220&rs=1&o=5&dpr=1.3&pid=21.1",
       "additionalImages": [
         ""
       ]
@@ -23,8 +13,8 @@
     {
       "id": "4d40",
       "name": "Nature",
-      "type": "Photo",
-      "description": "Nature is beuty",
+      "type": "AI generated Photo.",
+      "description": "Beautiful, peaceful, refreshing, green, life.",
       "coverImage": "https://wallpaperaccess.com/full/682452.jpg",
       "additionalImages": [
         ""
